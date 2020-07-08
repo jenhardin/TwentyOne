@@ -1,0 +1,2 @@
+*Please copy and paste the databse files from the 'AppData' folder to your where your local databases are
+ are located on your computer to access databse features locally. You will need to alter the code.

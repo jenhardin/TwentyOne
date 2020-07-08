@@ -1,0 +1,29 @@
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.deps.json
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.runtimeconfig.json
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.runtimeconfig.dev.json
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.dll
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.pdb
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csprojAssemblyReference.cache
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.AssemblyInfo.cs
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.dll
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.pdb
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\Casino.dll
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\Casino.pdb
+C:\Users\Nicson Martinez\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csproj.CopyComplete
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.deps.json
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.runtimeconfig.json
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.runtimeconfig.dev.json
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.dll
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.pdb
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\Casino.dll
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\Casino.pdb
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csprojAssemblyReference.cache
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.AssemblyInfo.cs
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csproj.CopyComplete
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.dll
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.pdb
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.genruntimeconfig.cache

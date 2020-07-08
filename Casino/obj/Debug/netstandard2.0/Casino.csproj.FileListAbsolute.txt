@@ -1,0 +1,9 @@
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\Casino\bin\Debug\netstandard2.0\Casino.deps.json
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\Casino\bin\Debug\netstandard2.0\Casino.dll
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\Casino\bin\Debug\netstandard2.0\Casino.pdb
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.csprojAssemblyReference.cache
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfoInputs.cache
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfo.cs
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.dll
+C:\Users\jenem\Documents\StudentDrills_Utah\The-Tech-Academy-Basic-C-Sharp-Projects-master\Intro to C-Sharp\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.pdb

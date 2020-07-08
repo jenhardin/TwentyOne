@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "owOt4va8Izc0xe98TyHS/JkoLWkANBA3nd2m6sA2M+vhxoClCuSjbhj3iTr814h/MMQbLiNIysI/Z+q7hyW2Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jenem\\Documents\\StudentDrills_Utah\\The-Tech-Academy-Basic-C-Sharp-Projects-master\\Intro to C-Sharp\\TwentyOne\\Casino\\Casino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jenem\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
