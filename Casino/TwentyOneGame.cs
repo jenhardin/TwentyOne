@@ -228,7 +228,7 @@ namespace Casino.TwentyOne
             }
             if (Dealer.Stay)
             {
-                Console.WriteLine("Dealer is stying");
+                Console.WriteLine("Dealer is staying");
             }
             if (Dealer.isBusted)
             {
